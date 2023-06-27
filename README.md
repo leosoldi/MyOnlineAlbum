@@ -10,6 +10,7 @@ O Sistema de Álbum de Fotos Online é um aplicativo desenvolvido em React Nativ
    <li> Edição de informações das fotos (título, descrição, tags, etc.) </li>
    <li> Exclusão de fotos do álbum </li>
    <li> Upload de novas imagens para o álbum </li>
+   <li> Banco de dados Usado firebase </li
  </ul> 
 
 
